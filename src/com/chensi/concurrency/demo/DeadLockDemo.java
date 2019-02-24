@@ -1,5 +1,9 @@
-package com.company.chapter.one;
+package com.chensi.concurrency.demo;
 
+/**
+ * 死锁示例
+ * author:chensi
+ */
 public class DeadLockDemo {
     private static String A = "A";
     private static String B = "B";

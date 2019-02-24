@@ -1,5 +1,11 @@
-package com.company.chapter.one;
+package com.chensi.concurrency.demo;
 
+/**
+ * 并发一定快吗？
+ * 并发与串行执行结果比较
+ * author:chensi
+ * Date:2019/2/24
+ **/
 public class ConcurrencyTest {
     private static final long count = 100000L;
 
